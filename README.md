@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cuerpo-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Cuerpo de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-fuego/) |
+| **Get License** | [Commercial Licensing for Cuerpo de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Cuerpo de fuego, me tienes perdiendo el control
+> Bailando en lo oscuro, tú me robas la razón
+> You know I want you, mami, dímelo otra vez
+> Esta noche es tuya, de la cabeza a los pies
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
