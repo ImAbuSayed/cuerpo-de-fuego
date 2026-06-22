@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cuerpo de fuego
+
+This log tracks the cryptographic history and versioning for the song **Cuerpo de fuego** (cuerpo-de-fuego).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T21:14:14.360617 | `v1` | `f26283ee62a1c2870f89e0086651de69d870ed0cf653511aa6b31e14f7e511cf` | `fcdf5a4897f5387be6dc23ab30f64b1da5ee1a88ad221c29f35875184ee74607` | `2026-06-22_cuerpo-de-fuego-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

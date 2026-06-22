@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cuerpo-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Cuerpo de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-fuego/) |
+| **Get License** | [License this song: Cuerpo de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f26283ee62a1c2870f89e0086651de69d870ed0cf653511aa6b31e14f7e511cf` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
